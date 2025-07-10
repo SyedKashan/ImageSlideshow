@@ -24,7 +24,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/onevcat/Kingfisher.git", from: "5.8.0"),
         .package(url: "https://github.com/Alamofire/AlamofireImage.git", from: "4.0.0"),
-        .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.1.0")
+        .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.16.0")
     ],
     targets: [
         .target(
